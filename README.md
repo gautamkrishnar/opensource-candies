@@ -40,8 +40,6 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 ### Public Cloud
 
-[<img src="https://assets.openshift.net/content/subdomain/favicon.ico" alt="OpenShift" height="16" /> OpenShift](https://cloud.redhat.com/community/programs/grants/) - free for open source - request needed
-
 [<img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" height="16" /> Heroku](https://www.heroku.com/pricing) - free tier for experimenting, sleeps after 30 minutes of inactivity
 
 [<img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" alt="Vercel" height="16" /> Vercel](https://vercel.com/pricing) - free tier includes all-in-one Static and JAMstack deployment, Serverless Functions, and Global CDN (formerly ZEIT Now)
